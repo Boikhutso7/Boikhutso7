@@ -6,7 +6,7 @@
 📍 **Location**: Ga-Motla, 0407, Pretoria  
 📧 **Email**: boikhutsomashigo@gmail.com  
 💼 **LinkedIn**: [Bokhutso Mashigo](https://www.linkedin.com/in/bokhutso-mashigo-b8327534b)  
-🐙 **GitHub**: [Bokhutso7](https://github.com/Bokhutso7)
+🐙 **GitHub**: [Bokhutso7](https://github.com/Boikhutso7)
 
 ---
 
@@ -53,11 +53,6 @@ Final-year Software Engineering student at **WeThinkCode** (Expected Graduation:
 - Implemented interactive features using vanilla JavaScript
 - Deployed on Netlify with continuous deployment from GitHub
 
-### **[Brownfields Project](https://github.com/Bokhutso7)**
-- Collaborated in a 4-person team to extend and refactor a legacy Java application
-- Utilized Maven for dependency management and CodeScene for code quality analysis
-- Engineered and optimized SQLite database queries for better performance
-
 ### **Other Notable Projects**
 - **[Weather Application](https://github.com/Bokhutso7/Weather-application)** - Real-time weather data app
 - **[Healthcare Appointment System](https://github.com/Bokhutso7/Healthcare-appointment-System)** - Medical booking system
@@ -68,11 +63,11 @@ Final-year Software Engineering student at **WeThinkCode** (Expected Graduation:
 
 ## 📊 GitHub Stats
 
-![Bokhutso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bokhutso7&show_icons=true&theme=radical&hide_border=true)
+![Boikhutso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boikhutso7&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bokhutso7&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boikhutso7&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokhutso7&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boikhutso7&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -128,4 +123,4 @@ I'm always open to discussing software engineering, data engineering, or potenti
 
 ---
 
-⭐ *From [Bokhutso7](https://github.com/Bokhutso7)*
+⭐ *From [Boikhutso7](https://github.com/Boikhutso7)*
