@@ -6,7 +6,7 @@
 📍 **Location**: Ga-Motla, 0407, Pretoria  
 📧 **Email**: boikhutsomashigo@gmail.com  
 💼 **LinkedIn**: [Bokhutso Mashigo](https://www.linkedin.com/in/bokhutso-mashigo-b8327534b)  
-🐙 **GitHub**: [Bokhutso7](https://github.com/Boikhutso7)
+🐙 **GitHub**: [Boikhutso7](https://github.com/Boikhutso7)
 
 ---
 
