@@ -83,17 +83,6 @@ Final-year Software Engineering student at **WeThinkCode** (Expected Graduation:
 - **Google Agile Essentials** | Coursera
 - **Working in a Digital World: Professional Skills** | IBM SkillsBuild
 
----
-
-## 💼 Professional Experience
-
-### **Placement Facilitator** | WeThinkCode (Volunteer)
-- Spearheaded planning and execution of career fairs and mock interviews
-- Cultivated professional relationships with employer partners
-- Participated in strategic placement team meetings
-
----
-
 ## 📚 Education
 
 - **Occupational Certificate NQF Level 6: Software Engineer**  
