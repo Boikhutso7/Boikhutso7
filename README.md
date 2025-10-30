@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-Final-year Software Engineering student at **WeThinkCode** (Expected Graduation: Sep 2026) with a proven ability to develop software solutions through a rigorous, project-based curriculum. Currently specializing in **Data Engineering**. Adept at problem-solving, collaborative development, and effectively communicating technical concepts.
+Final-year Software Engineering student at **WeThinkCode** (Expected Graduation: Aug 2026) with a proven ability to develop software solutions through a rigorous, project-based curriculum. Currently specializing in **Data Engineering**. Adept at problem-solving, collaborative development, and effectively communicating technical concepts.
 
 **⚡ Fun Fact**: "Solving problems is my second nature"
 
