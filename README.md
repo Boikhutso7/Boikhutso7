@@ -3,7 +3,6 @@
 **Student Software Engineer | Data Engineering Enthusiast**  
 *Final-year Software Engineering student specializing in Data Engineering*
 
-📍 **Location**: Ga-Motla, 0407, Pretoria  
 📧 **Email**: boikhutsomashigo@gmail.com  
 💼 **LinkedIn**: [Boikhutso Mashigo](https://www.linkedin.com/in/boikhutso-mashigo-b8327534b)  
 🐙 **GitHub**: [Boikhutso7](https://github.com/Boikhutso7)
