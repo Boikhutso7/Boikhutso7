@@ -69,29 +69,6 @@ Final-year Software Engineering student at **WeThinkCode** (Expected Graduation:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boikhutso7&layout=compact&theme=radical&hide_border=true)
 
----
-
-## 🏅 Certifications
-
-### **Technical Skills**
-- **Java Basic Certificate** | HackerRank | Credential ID: aba9fb184d57
-- **Python (Basic) Certificate** | HackerRank | Credential ID: 2AEBFD746460
-- **Cloud Computing Fundamentals** | IBM SkillsBuild
-- **GenAI Course Certificate** | WeThinkCode
-
-### **Professional Development**
-- **Google Agile Essentials** | Coursera
-- **Working in a Digital World: Professional Skills** | IBM SkillsBuild
-
-## 📚 Education
-
-- **Occupational Certificate NQF Level 6: Software Engineer**  
-  WeThinkCode | Expected Graduation: Sep 2026
-
-- **National Senior Certificate NQF Level 4: Matric**  
-  Motshegoa Secondary School
-
----
 
 ## 🎯 Currently Learning
 
