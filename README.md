@@ -48,9 +48,7 @@ Final-year Software Engineering student at **WeThinkCode** with a proven ability
 *Java-based system for managing food delivery operations*
 
 ### **[Portfolio Website](https://github.com/Bokhutso7/Portfolio-Website)**
-- Developed a responsive, single-page portfolio website from scratch
-- Implemented interactive features using vanilla JavaScript
-- Deployed on Netlify with continuous deployment from GitHub
+
 
 ### **Other Notable Projects**
 - **[Weather Application](https://github.com/Bokhutso7/Weather-application)** - Real-time weather data app
