@@ -47,7 +47,7 @@ Final-year Software Engineering student at **WeThinkCode** with a proven ability
 ### **[Food Delivery Management System](https://github.com/Boikhutso7/food-delivery-management-system)**
 *Java-based system for managing food delivery operations*
 
-### **[Portfolio Website](https://github.com/Bokhutso7/Portfolio-Website)**
+### **[Portfolio Website](https://github.com/Boikhutso7/Portfolio-Website)**
 
 
 ### **Other Notable Projects**
