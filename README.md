@@ -11,9 +11,11 @@
 
 ## 🚀 About Me
 
-Final-year Software Engineering student at **WeThinkCode** with a proven ability to develop software solutions through a rigorous, project-based curriculum. Currently specializing in **Data Engineering**. Adept at problem-solving, collaborative development, and effectively communicating technical concepts.
+I am a WeThinkCode_ Alumnus and Software Engineer with a specialized focus on Data Engineering.
 
-**⚡ Fun Fact**: "Solving problems is my second nature"
+With a strong technical foundation in Java, Python, and SQL, I have successfully built scalable backend systems and optimized legacy codebases. My expertise extends to ETL pipelines, Cloud Computing, and Agile development. I am now seeking a professional role where I can apply these skills to build impactful, data-driven software solutions.
+
+**⚡ Fun Fact**: "Solving problems is my second nature."
 
 ---
 
